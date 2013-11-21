@@ -1,0 +1,26 @@
+{
+  "name": "karma-nunit",
+  "version": "0.1.0",
+  "description": "A Karma plugin - adapter for NUnit testing framework.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nealxyc/karma-nunit"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-framework",
+    "nunit",
+    "unit",
+    "testing"
+  ],
+  "author": "Neal Xiong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nealxyc/karma-nunit/issues"
+  },
+  "readmeFilename": "README.md"
+}

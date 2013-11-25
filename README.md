@@ -34,6 +34,7 @@ module.exports = function(config) {
 ```
 
 For more information on Karma see the [karma].
+
 For more information on NUnit.js go to [nunit].
 
 

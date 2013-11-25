@@ -1,4 +1,4 @@
-# karma-jasmine
+# karma-nunit
 
 > Adapter for the NUnit testing framework.
 

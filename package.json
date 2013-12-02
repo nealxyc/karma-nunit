@@ -1,6 +1,6 @@
 {
   "name": "karma-nunit",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A Karma plugin - adapter for NUnit testing framework.",
   "main": "lib/index.js",
   "scripts": {

@@ -13,6 +13,7 @@
   "keywords": [
     "karma-plugin",
     "karma-framework",
+    "karma-adapter",
     "nunit",
     "unit",
     "testing"
